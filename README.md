@@ -5,7 +5,7 @@
 ---
 
 ## **Product Vision**
-### **FOR**  Jucătorii pasionați de jocuri horror care caută o experiență captivantă și tensionată.  
+ **FOR**  Jucătorii pasionați de jocuri horror care caută o experiență captivantă și tensionată.  
 
 ### **WHO**  Doresc să exploreze medii imersive și să rezolve puzzle-uri provocatoare într-un cadru înfricoșător.  
 
