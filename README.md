@@ -31,3 +31,5 @@ Creează o atmosferă dinamică și personalizată, în care acțiunile jucător
 - **Entitate malefică:** O creatură adaptivă care urmărește jucătorul folosind algoritmi de pathfinding avansați.  
 - **Atmosferă tensionată:** Iluminare dinamică, efecte sonore captivante și mecanici de joc care cresc constant tensiunea.  
 - **Dificultate progresivă:** Pe măsură ce puzzle-urile devin mai complexe, AI-ul devine mai periculos și imprevizibil.
+
+### **LINK GITHUB:**  [GitHub Repository](https://github.com/sumithesum/Asylum-Escape)
