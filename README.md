@@ -5,23 +5,17 @@
 ---
 
 ## **Product Vision**
-### **FOR**  
-Jucătorii pasionați de jocuri horror care caută o experiență captivantă și tensionată.  
+### **FOR**  Jucătorii pasionați de jocuri horror care caută o experiență captivantă și tensionată.  
 
-### **WHO**  
-Doresc să exploreze medii imersive și să rezolve puzzle-uri provocatoare într-un cadru înfricoșător.  
+### **WHO**  Doresc să exploreze medii imersive și să rezolve puzzle-uri provocatoare într-un cadru înfricoșător.  
 
-### **The "Asylum Escape"**  
-Este un joc 3D horror interactiv.  
+### **The "Asylum Escape"**  Este un joc 3D horror interactiv.  
 
-### **THAT**  
-Oferă o combinație unică de explorare, rezolvare de puzzle-uri și interacțiune cu un AI adaptiv, pentru a oferi o experiență captivantă și intensă.  
+### **THAT**  Oferă o combinație unică de explorare, rezolvare de puzzle-uri și interacțiune cu un AI adaptiv, pentru a oferi o experiență captivantă și intensă.  
 
-### **UNLIKE**  
-Jocurile de groază obișnuite care oferă scenarii previzibile și interacțiuni limitate.  
+### **UNLIKE**  Jocurile de groază obișnuite care oferă scenarii previzibile și interacțiuni limitate.  
 
-### **OUR PRODUCT**  
-Creează o atmosferă dinamică și personalizată, în care acțiunile jucătorului influențează direct dificultatea și comportamentul AI-ului.  
+### **OUR PRODUCT**  Creează o atmosferă dinamică și personalizată, în care acțiunile jucătorului influențează direct dificultatea și comportamentul AI-ului.  
 
 ---
 
