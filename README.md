@@ -19,6 +19,14 @@
 
 ---
 
+## **Diagrama UML**
+
+![Alt Text](https://github.com/unibuc-cs/software-engineering-product-tech-titans/blob/main/Asylum%20Escape%20UML.png)
+
+
+---
+
+
 ## **Caracteristici principale**
 - **Explorare imersivă:** Navighează printr-o clădire întunecată și detaliată, descoperind indicii și obiecte care îți vor permite să scapi.  
 - **Puzzle-uri provocatoare:** Rezolvă puzzle-uri logice și bazate pe interacțiuni pentru a progresa.  
