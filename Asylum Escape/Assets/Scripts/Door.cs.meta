@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db9b6af00c2aa054998950fe6cc8be31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - neighbour: {instanceID: 0}
+  - doorOpeningSound: {fileID: 8300000, guid: e8af9035f5758f44da37af4225a02619, type: 3}
+  - doorLockedSound: {fileID: 8300000, guid: 9b05bf85194a6994e87a326b55b12087, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
