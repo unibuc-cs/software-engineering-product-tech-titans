@@ -17,12 +17,6 @@
 
  **OUR PRODUCT**  Creează o atmosferă dinamică și personalizată, în care acțiunile jucătorului influențează direct dificultatea și comportamentul AI-ului.  
 
----
-
-## **Diagrama UML**
-
-![Alt Text](https://github.com/unibuc-cs/software-engineering-product-tech-titans/blob/main/Asylum%20Escape%20UML.png)
-
 
 ---
 
