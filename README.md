@@ -35,4 +35,8 @@ GDD-ul jocului se gaseste [aici](https://docs.google.com/document/d/1mwbYCyJfk3d
 - **Atmosferă tensionată:** Iluminare dinamică, efecte sonore captivante și mecanici de joc care cresc constant tensiunea.  
 - **Dificultate progresivă:** Pe măsură ce puzzle-urile devin mai complexe, AI-ul devine mai periculos și imprevizibil.
 
+ 
+### **Demo:** [Demo](https://youtu.be/6DmIRaYXWdA)
+
+
 ### **LINK GITHUB:**  [Asylum Escape](https://github.com/sumithesum/Asylum-Escape)
