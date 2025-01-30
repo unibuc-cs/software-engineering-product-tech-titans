@@ -20,6 +20,13 @@
 
 ---
 
+## **Game Design Document**
+
+GDD-ul jocului se gaseste [aici](https://docs.google.com/document/d/1mwbYCyJfk3dXTPHZTqFnW2c_E7UkJhAnfI_YPkPGlUA/edit?usp=sharing)
+
+
+---
+
 
 ## **Caracteristici principale**
 - **Explorare imersivă:** Navighează printr-o clădire întunecată și detaliată, descoperind indicii și obiecte care îți vor permite să scapi.  
